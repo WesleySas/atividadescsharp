@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo6\fourth\fourth\bin\Debug\netcoreapp3.1\fourth.exe
+C:\proj\aspnet\modulo6\fourth\fourth\bin\Debug\netcoreapp3.1\fourth.deps.json
+C:\proj\aspnet\modulo6\fourth\fourth\bin\Debug\netcoreapp3.1\fourth.runtimeconfig.json
+C:\proj\aspnet\modulo6\fourth\fourth\bin\Debug\netcoreapp3.1\fourth.runtimeconfig.dev.json
+C:\proj\aspnet\modulo6\fourth\fourth\bin\Debug\netcoreapp3.1\fourth.dll
+C:\proj\aspnet\modulo6\fourth\fourth\bin\Debug\netcoreapp3.1\fourth.pdb
+C:\proj\aspnet\modulo6\fourth\fourth\obj\Debug\netcoreapp3.1\fourth.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo6\fourth\fourth\obj\Debug\netcoreapp3.1\fourth.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo6\fourth\fourth\obj\Debug\netcoreapp3.1\fourth.AssemblyInfo.cs
+C:\proj\aspnet\modulo6\fourth\fourth\obj\Debug\netcoreapp3.1\fourth.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo6\fourth\fourth\obj\Debug\netcoreapp3.1\fourth.dll
+C:\proj\aspnet\modulo6\fourth\fourth\obj\Debug\netcoreapp3.1\fourth.pdb
+C:\proj\aspnet\modulo6\fourth\fourth\obj\Debug\netcoreapp3.1\fourth.genruntimeconfig.cache
